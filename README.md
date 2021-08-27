@@ -25,3 +25,9 @@ https://artifacts.elastic.co/downloads/elasticsearch-plugins/analysis-nori/analy
 ```
 bin\elasticsearch-plugin install file:///C:\elastic\analysis-nori-7.9.3.zip
 ```
+
+
+## Docker for Window
+
+download   
+https://docs.docker.com/desktop/windows/install/
