@@ -9,6 +9,12 @@ https://www.elastic.co/kr/downloads/past-releases/elasticsearch-oss-7-9-3
 bin\elasticsearch.bat
 ```
 
+high disk watermark [90%] exceeded 오류 발생 시 config 추가
+```
+cluster.routing.allocation.disk.threshold_enabled: false
+```
+
+
 ### kibana
 https://www.elastic.co/kr/downloads/past-releases/kibana-oss-7-9-3
 ```
