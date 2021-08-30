@@ -2,6 +2,11 @@
 
 ## Window 환경 Test
 
+## Download 경로   
+![image](https://user-images.githubusercontent.com/10610884/131291698-79e46ff5-aef6-4034-bde0-5f8065e3722b.png)
+
+
+
 ### es
 https://www.elastic.co/kr/downloads/past-releases/elasticsearch-oss-7-9-3
 ```
