@@ -7,7 +7,7 @@
 
 
 
-### es
+### 
 https://www.elastic.co/kr/downloads/past-releases/elasticsearch-oss-7-9-3
 ```
 관리자 권한으로
