@@ -21,6 +21,12 @@ https://www.elastic.co/kr/downloads/past-releases/kibana-oss-7-9-3
 관리자 권한
 bin\kibana.bat
 ```
+local kibana 접속   
+```
+localhost:5601
+```
+
+
 
 
 ### metricbeat
