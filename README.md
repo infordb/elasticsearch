@@ -48,3 +48,7 @@ C:\elastic\elasticsearch-oss-7.9.3-windows-x86_64\elasticsearch-7.9.3\bin\elasti
 
 download   
 https://docs.docker.com/desktop/windows/install/
+
+
+### 참고 URL
+opensearch : https://aws.amazon.com/ko/opensearch-service/the-elk-stack/what-is-opensearch/
