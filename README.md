@@ -51,4 +51,6 @@ https://docs.docker.com/desktop/windows/install/
 
 
 ### 참고 URL
-opensearch : https://aws.amazon.com/ko/opensearch-service/the-elk-stack/what-is-opensearch/
+opensearch : https://aws.amazon.com/ko/opensearch-service/the-elk-stack/what-is-opensearch/   
+metrict beat module : https://www.elastic.co/guide/en/beats/metricbeat/current/metricbeat-modules.html   
+
