@@ -37,6 +37,17 @@ localhost:5601
 ### metricbeat
 https://www.elastic.co/kr/downloads/past-releases/metricbeat-oss-7-9-3
 
+```
+cd
+C:\elastic\metricbeat-oss-7.9.3-windows-x86_64\metricbeat-7.9.3-windows-x86_64
+
+metricbeat.exe setup --dashboards
+
+metricbeat.exe
+```
+
+
+
 ### Nori
 https://artifacts.elastic.co/downloads/elasticsearch-plugins/analysis-nori/analysis-nori-7.9.3.zip
 ```
