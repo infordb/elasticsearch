@@ -67,6 +67,44 @@ POST /image-index/_search
 
 ```
 
+## exclude _source (vector field)
+```
+
+DELETE image-index
+
+PUT /image-index
+{
+  "mappings": {
+    "_source": {
+      "excludes": [
+        "image-vector",
+        "title-vector"
+      ]
+    },    
+    "properties": {
+      "image-vector": {
+        "type": "dense_vector",
+        "dims": 3,
+        "index": true,
+        "similarity": "l2_norm"
+      },
+      "title-vector": {
+        "type": "dense_vector",
+        "dims": 5,
+        "index": true,
+        "similarity": "l2_norm"
+      },
+      "title": {
+        "type": "text"
+      },
+      "file-type": {
+        "type": "keyword"
+      }
+    }
+  }
+}
+
+```
 
 
 
